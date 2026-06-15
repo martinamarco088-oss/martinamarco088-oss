@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
+### Hi, I'm Martina Marco 👋
+### Data Analyst | BIS Student
+
 - 🎓 BIS Student passionate about Data Analysis and Business Intelligence
 - 📊 Interested in transforming raw data into meaningful insights and data-driven decisions
 - 🔍 Enjoy exploring datasets, discovering patterns, and solving real-world business problems
