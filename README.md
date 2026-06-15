@@ -1,6 +1,7 @@
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/martinamarco088-oss/martinamarco088-oss/main/Data%20Analysis.png" alt="Data Analysis Banner"/>
 <h1 align="center">Martina Marco</h1>
 
 <p align="center">
