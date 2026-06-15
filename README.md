@@ -123,8 +123,9 @@ Here you will find my Data Analysis projects, dashboards, and case studies that 
 </a>
 
 <a href="https://martina-marco-dawood-0el4f9f.gamma.site/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 </div>
 
 
