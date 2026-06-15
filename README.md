@@ -110,24 +110,28 @@ Here you will find my Data Analysis projects, dashboards, and case studies that 
 
 <div align="center">
 
-<a href="https://github.com/martinamarco088-oss">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/martina-marco-am"/>
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:martinamarco088@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=martinamarco088@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/martinamarco088-oss">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://martina-marco-dawood-0el4f9f.gamma.site/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </div>
 
----
+
 
 <div align="center">
 
-## Turning Data Into Insights 📊
+## Turning Data Into Insights and Decisions
 
 </div>
 
