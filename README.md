@@ -39,7 +39,7 @@ I enjoy transforming raw data into meaningful insights, exploring datasets, disc
 # Education
 
 - **Business Information Systems (BIS) |Helwan University**
-- Undergraduate Student
+- Senior Student
 
 ---
 
@@ -96,12 +96,12 @@ Here you will find my Data Analysis projects, dashboards, and case studies that 
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=martinamarco088-oss&show_icons=true&theme=tokyonight&hide_border=true" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinamarco088-oss&theme=tokyonight&hide_border=true" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinamarco088-oss&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
