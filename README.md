@@ -38,7 +38,7 @@ I enjoy transforming raw data into meaningful insights, exploring datasets, disc
 
 # Education
 
-- **Business Information Systems (BIS)**
+- **Business Information Systems (BIS) |Helwan University**
 - Undergraduate Student
 
 ---
@@ -118,6 +118,9 @@ Here you will find my Data Analysis projects, dashboards, and case studies that 
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:martinamarco088@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 ---
@@ -127,4 +130,4 @@ Here you will find my Data Analysis projects, dashboards, and case studies that 
 ## Turning Data Into Insights 📊
 
 </div>
-```
+
